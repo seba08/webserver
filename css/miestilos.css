@@ -1,0 +1,29 @@
+html{
+
+}
+.caja{
+    background-color: steelblue;
+}
+
+
+.miboton{
+    width: 10rem;
+    background-color: green;
+    border-style: none;
+    padding: 1rem;
+    border-radius: .4rem;
+    font-size: 1.5rem;
+    color: #fff;
+    box-shadow: 2px 4px 2px grey;
+}
+.miboton:hover{
+   cursor: pointer;
+   background-color: #002952;
+   box-shadow: 0px 0px 0px;
+   transition: all .5s ease-in;
+   color: red;
+}
+
+.cambiar-color{
+    background-color: red;
+}
